@@ -1,0 +1,6 @@
+State,CardioHF,CardioHf,CardioFF,CardioFf,HTAHF,HTAHf,HTAFF,HTAFf,DiabeteHF,DiabeteHf,DiabeteFF,DiabeteFf,AsthmeHF,AsthmeHf,AsthmeFF,AsthmeFf,RienHF,RienHf,RienFF,RienFf
+[18-27],0,1,0,4,1,11,0,14,0,12,0,22,0,2,0,4,1,18,0,10
+[28-37],0,0,0,4,4,17,0,8,8,17,0,13,0,4,0,0,4,17,0,4
+[38-47],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,75,0,0
+[48-57],0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,67
+[58-67],0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0
